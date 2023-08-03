@@ -1,17 +1,12 @@
 <template>
-  <div>
-    <img src="/KP.png" alt="Kleiner Perkins Fellows" class="logo" />
+  <div class="logo">
+    Engineer Copilot
   </div>
 </template>
 
-<style lang="ts" scoped>
-css({
-  div: {
-    height: 'inherit',
-  },
-  '.logo': {
-    width: '400px', /* Adjust the width as per your preference */
-    height: 'auto', /* Maintain the aspect ratio */
-  },
-});
+<style scoped>
+.logo {
+  font-size: 2em; /* Adjust the size as per your preference */
+  font-weight: bold; /* Make the text bold */
+}
 </style>
