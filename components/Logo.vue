@@ -1,12 +1,5 @@
 <template>
-  <div class="logo">
-    Engineer Copilot
+  <div style="font-size: 20px; font-weight: bold; font-family: 'Futura', Arial, sans-serif;">
+    Engineering Copilot
   </div>
 </template>
-
-<style scoped>
-.logo {
-  font-size: 2em; /* Adjust the size as per your preference */
-  font-weight: bold; /* Make the text bold */
-}
-</style>
